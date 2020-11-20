@@ -1,0 +1,43 @@
+.navbar-brand{
+	padding-top: 2px;
+}
+
+.navbar-but{
+	padding-top: 2px;
+	margin-left: 1350px;
+	float: right;
+}
+
+card-default{
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.alert{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.aw-link-panel{
+	float: right;
+}
+
+.aw-titulo-panel{
+	float: center;
+}
+
+.but-cadastrar{
+	margin-left: 50%;
+}
+.vaga{
+	margin-left: 500px;
+}
+.but-alocar{
+	margin-left: 50%;
+}
+.navbar-form{
+	margin-top: 1px;
+	margin-left: 500px;
+	float: right;
+}
